@@ -40,9 +40,9 @@ It also features a **dynamic matplotlib graph** plotting Δv against varying fue
   <img src="r3.png" width="200">
 </p>
 <p align="center">
-  <img src="r4.png" width="200">
-  <img src="r5.png" width="200">
-  <img src="r6.png" width="200">
+  <img src="r4.png" width="300">
+  <img src="r5.png" width="300">
+ 
 </p>
 
 ---
